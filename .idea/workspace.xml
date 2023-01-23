@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9dde109-28ea-4bac-bff6-322a431e35f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec-2022-html.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/homework1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/images/homer.png" afterDir="false" />
+    <list default="true" id="e9dde109-28ea-4bac-bff6-322a431e35f6" name="Changes" comment="add homework1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +59,16 @@
       <option name="presentableId" value="Default" />
       <updated>1674474994233</updated>
       <workItem from="1674474995530" duration="4528000" />
-      <workItem from="1674499932232" duration="7925000" />
+      <workItem from="1674499932232" duration="9156000" />
     </task>
+    <task id="LOCAL-00001" summary="add homework1">
+      <created>1674509594685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674509594685</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add homework1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework1" />
   </component>
 </project>
