@@ -1,0 +1,30 @@
+h1 {
+    font-size: 55px;
+    background: aquamarine;
+    color: black;
+    width: 300px;
+    text-align: center;
+}
+h2 {
+    font-size: 35px;
+    background: yellow;
+    color: darkblue;
+    width: 300px;
+}
+p {
+    background: greenyellow;
+    color: black;
+    width: 400px;
+}
+li {
+    background: lightgreen;
+    color: darkslategray;
+    width: 300px;
+}
+img {
+    width: 300px;
+}
+a {
+    text-decoration: none;
+}
+
