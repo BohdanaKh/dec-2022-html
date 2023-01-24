@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 600px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.widgets{
+width: 100%;
+    height: 30%;
+    background-color: blue;
+}
+.main{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: space-between;
+}
+.block{
+    width: 30%;
+    height: 100%;
+  background-color: darkblue;
+}
+.contact{
+    width: 100%;
+    height: 45%;
+    background-color: blue;
+}
+.widgets, .block, .contact{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    font-size: 25px;
+    color: #fff;
+
+}

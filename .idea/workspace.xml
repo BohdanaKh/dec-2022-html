@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9dde109-28ea-4bac-bff6-322a431e35f6" name="Changes" comment="add homework1">
+    <list default="true" id="e9dde109-28ea-4bac-bff6-322a431e35f6" name="Changes" comment="workspace changed">
+      <change afterPath="$PROJECT_DIR$/lesson2/homework2/blueBlocks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/homework2/cards1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/homework2/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674474994233</updated>
       <workItem from="1674474995530" duration="4528000" />
-      <workItem from="1674499932232" duration="9156000" />
+      <workItem from="1674499932232" duration="15757000" />
     </task>
     <task id="LOCAL-00001" summary="add homework1">
       <created>1674509594685</created>
@@ -68,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674509594685</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="workspace changed">
+      <created>1674510985961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674510985961</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add homework1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add homework1" />
+    <MESSAGE value="workspace changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace changed" />
   </component>
 </project>
