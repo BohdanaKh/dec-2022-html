@@ -3,6 +3,7 @@ body{
     padding: 0;
 }
 .container{
+    margin: 0 auto;
     width: 600px;
     height: 100vh;
     display: flex;
