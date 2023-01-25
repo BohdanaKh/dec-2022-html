@@ -4,20 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9dde109-28ea-4bac-bff6-322a431e35f6" name="Changes" comment="add cards1">
-      <change afterPath="$PROJECT_DIR$/lesson2/homework2/cards2/cards2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/homework2/cards2/cards2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/homework2/cards3/cards3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/homework2/cards3/cards3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/homework3/cards1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/homework3/demo1/cards2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/homework3/demo1/main2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/homework3/main1.css" afterDir="false" />
+    <list default="true" id="e9dde109-28ea-4bac-bff6-322a431e35f6" name="Changes" comment="add cards2 hw2">
+      <change afterPath="$PROJECT_DIR$/lesson3/homework3/cards2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/homework3/main2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/homework2/blueBlocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/homework2/blueBlocks/blueBlocks.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/homework2/cards/cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/homework2/cards1/cards.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/homework2/cards/cards1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/homework2/cards1/cards1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/homework2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/homework2/blueBlocks/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/homework2/cards3/cards3.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/homework2/cards3/cards3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/homework2/cards3/cards3.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/homework2/cards3/cards3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/homework3/cards1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/homework3/cards1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/homework3/demo1/cards2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/homework3/demo1/main2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/homework3/main1.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/homework3/main1.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +56,10 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DANA\IdeaProjects\dec-2022-html\lesson3\homework3" />
       <recent name="C:\Users\DANA\IdeaProjects\dec-2022-html\lesson2\homework2\cards2" />
       <recent name="C:\Users\DANA\IdeaProjects\dec-2022-html\lesson2\homework2\blueBlocks" />
       <recent name="C:\Users\DANA\IdeaProjects\dec-2022-html\lesson3\homework3\demo1" />
-      <recent name="C:\Users\DANA\IdeaProjects\dec-2022-html\lesson3\homework3" />
       <recent name="C:\Users\DANA\IdeaProjects\dec-2022-html\lesson2\homework2\cards" />
     </key>
   </component>
@@ -77,7 +73,7 @@
       <updated>1674474994233</updated>
       <workItem from="1674474995530" duration="4528000" />
       <workItem from="1674499932232" duration="20019000" />
-      <workItem from="1674590660487" duration="20953000" />
+      <workItem from="1674590660487" duration="31638000" />
     </task>
     <task id="LOCAL-00001" summary="add homework1">
       <created>1674509594685</created>
@@ -114,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674580209855</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add cards2 hw2">
+      <created>1674647809617</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674647809617</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +140,7 @@
     <MESSAGE value="add homework2" />
     <MESSAGE value="changed homework2" />
     <MESSAGE value="add cards1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cards1" />
+    <MESSAGE value="add cards2 hw2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add cards2 hw2" />
   </component>
 </project>
