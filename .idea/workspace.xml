@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9dde109-28ea-4bac-bff6-322a431e35f6" name="Changes" comment="changed homework2">
-      <change afterPath="$PROJECT_DIR$/lesson2/homework2/cards/cards.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/homework2/cards/cards1.html" afterDir="false" />
+    <list default="true" id="e9dde109-28ea-4bac-bff6-322a431e35f6" name="Changes" comment="add cards1">
+      <change afterPath="$PROJECT_DIR$/lesson2/homework2/cards2/cards2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/homework2/cards2/cards2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/homework2/cards3/cards3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/homework2/cards3/cards3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/homework3/cards1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/homework3/demo1/cards2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/homework3/demo1/main2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/homework3/main1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/homework2/cards1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/homework2/blueBlocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/homework2/blueBlocks/blueBlocks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/homework2/cards/cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/homework2/cards1/cards.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/homework2/cards/cards1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/homework2/cards1/cards1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/homework2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/homework2/blueBlocks/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,25 +44,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DANA\IdeaProjects\dec-2022-html\lesson2\homework2\cards2" />
+      <recent name="C:\Users\DANA\IdeaProjects\dec-2022-html\lesson2\homework2\blueBlocks" />
+      <recent name="C:\Users\DANA\IdeaProjects\dec-2022-html\lesson3\homework3\demo1" />
+      <recent name="C:\Users\DANA\IdeaProjects\dec-2022-html\lesson3\homework3" />
       <recent name="C:\Users\DANA\IdeaProjects\dec-2022-html\lesson2\homework2\cards" />
-      <recent name="C:\Users\DANA\IdeaProjects\dec-2022-html\lesson1\homework1" />
-      <recent name="C:\Users\DANA\IdeaProjects\dec-2022-html\lesson1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,7 +76,8 @@
       <option name="presentableId" value="Default" />
       <updated>1674474994233</updated>
       <workItem from="1674474995530" duration="4528000" />
-      <workItem from="1674499932232" duration="19403000" />
+      <workItem from="1674499932232" duration="20019000" />
+      <workItem from="1674590660487" duration="20953000" />
     </task>
     <task id="LOCAL-00001" summary="add homework1">
       <created>1674509594685</created>
@@ -95,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674576723066</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add cards1">
+      <created>1674580209855</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674580209855</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +136,7 @@
     <MESSAGE value="workspace changed" />
     <MESSAGE value="add homework2" />
     <MESSAGE value="changed homework2" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed homework2" />
+    <MESSAGE value="add cards1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add cards1" />
   </component>
 </project>
