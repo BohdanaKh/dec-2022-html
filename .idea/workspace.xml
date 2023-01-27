@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9dde109-28ea-4bac-bff6-322a431e35f6" name="Changes" comment="add cards3 hw2">
-      <change afterPath="$PROJECT_DIR$/lesson4/adaptive base1 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/media.css" afterDir="false" />
+    <list default="true" id="e9dde109-28ea-4bac-bff6-322a431e35f6" name="Changes" comment="add homework 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +69,7 @@
       <workItem from="1674590660487" duration="32110000" />
       <workItem from="1674662638601" duration="939000" />
       <workItem from="1674667657770" duration="619000" />
-      <workItem from="1674809541287" duration="15234000" />
+      <workItem from="1674809541287" duration="17219000" />
     </task>
     <task id="LOCAL-00001" summary="add homework1">
       <created>1674509594685</created>
@@ -123,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674659656668</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add homework 4">
+      <created>1674831821785</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674831821785</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +152,7 @@
     <MESSAGE value="add cards1" />
     <MESSAGE value="add cards2 hw2" />
     <MESSAGE value="add cards3 hw2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cards3 hw2" />
+    <MESSAGE value="add homework 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework 4" />
   </component>
 </project>
