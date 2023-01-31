@@ -1,4 +1,4 @@
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 500px) {
     /* For mobile phones: */
     .boxbc, .blockbf{
         flex-direction: column;
